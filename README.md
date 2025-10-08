@@ -4,6 +4,7 @@
 This project analyzes **e-commerce transactional data** to uncover key business insights and demonstrate skills in **data analysis, KPI tracking, and statistical testing** .
 
 I explore customer purchasing patterns, revenue trends, and retention, then run **hypothesis testing (Welch’s t-test)** to compare **new vs returning customers**.  
+
 Finally, I summarize actionable business recommendations.
 
 ---
