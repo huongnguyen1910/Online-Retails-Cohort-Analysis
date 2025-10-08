@@ -42,6 +42,14 @@ Finally, I summarize actionable business recommendations.
 - **Retention:** Only ~25% of customers return in the 2nd month, <10% remain after 6 months.  
 - **Statistical testing:** Returning customers show **significantly higher AOV (18,5% higher in AOV) (p < 0.05)**.
 
+
+---
+## Recommendations
+
+- **Focus on retention:** Returning customers show higher AOV and larger orders → invest in loyalty programs, post-purchase emails, personalized offers.
+- **Diversify markets:** UK contributes >85% revenue → pilot campaigns in other countries to reduce risk.
+- **Optimize SKU mix & pricing:** Keep top-selling SKUs always in stock, bundle low-margin with high-margin items, test small price changes.
+
 ---
 
 ## Tech Stack
